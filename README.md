@@ -4,7 +4,7 @@ hi! I'm Daseul👋
 🔎Information
 -------------
 
-Gender : Man   Birthday : 04/22
+Gender : Man <br> Birthday : 04/22
 
 🖥️Development Languages
 -------------
