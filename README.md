@@ -1,7 +1,9 @@
 hi! I'm Daseul👋
 =============
 
-🔎Information
+Thank you so much for your help! >_<
+
+_🔎Information
 -------------
 
 Gender : Man ♂️ <br> Birthday : 04/22
