@@ -3,12 +3,12 @@ hi! I'm Daseul👋
 
 Thank you so much for your help! >_<
 
-_🔎Information
+🔎Information
 -------------
 
 Gender : Man ♂️ <br> Birthday : 04/22
 
-🖥️Development Languages
+🖥️||Development Languages||
 -------------
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
