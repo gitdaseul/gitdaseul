@@ -6,7 +6,8 @@ Thank you so much for your help! >_<
 🔎Information
 -------------
 
-Gender : Man ♂️ <br> Birthday : 04/22
+Gender : Man ♂️ <br> Birthday : 04/22 <br> <
+img src="https://img.shields.io/badge/Minecraft-6DB33F?style=for-the-badge&logo=Minecraft&logoColor=white">
 
 🖥️Development Languages
 -------------
