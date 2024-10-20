@@ -1,7 +1,7 @@
 hi! I'm Daseul👋
 =============
 
-Thank you so much for your help! >_<
+Thank you so much for your help!
 
 🔎Information
 -------------
